@@ -47,30 +47,6 @@ The internship was conducted within the Operations environment at the Vadodara b
 
 ---
 
-# 🖥️ Project Preview
-
-## 📑 Internship Presentation Preview
-
-Upload the presentation preview image to the repository as:
-
-`airvault_internship_preview.png`
-
-Then add:
-
-```markdown
-<p align="center">
-  <a href="Shambhavi_Airvault_Internship_4_Slides(1).pptx">
-    <img src="airvault_internship_preview.png" alt="Airvault Summer Internship Project Preview" width="800">
-  </a>
-</p>
-
-<p align="center">
-  <b>Click the preview above to view the complete internship presentation.</b>
-</p>
-```
-
----
-
 # 🔎 Problem Statement
 
 Growing customer expectations and global trade make **transportation, documentation, shipment tracking, and interdepartmental coordination** increasingly important to logistics performance.
